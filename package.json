@@ -10,7 +10,7 @@
   "author": "hst",
   "license": "ISC",
   "dependencies": {
-    "koa": "2.3.0",
+    "koa": "2.15.4",
     "mysql": "^2.18.1"
   }
 }
